@@ -1,0 +1,70 @@
+#Amazon Whitelist
+#.amazon.com # Wildcard Amazon
+aax-us-iad.amazon.com #Amazon app
+unagi-na.amazon.com #Amazon app
+aan.amazon.com # Amazon app
+
+.s3.amazonaws.com
+.s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
+.a2z.com #Amazon
+.amazon.dev #Amazon
+.fls-na.amazon.com # alexa
+.media-amazon.com 
+amazonalexa.com
+
+#Apple Whitelist
+apple.com
+ocsp.apple.com #Certificate Verification
+.icloud.com 
+icloud-content.com
+gateway.icloud.com
+apple-cloudkit.com 
+cdn-apple.com
+
+#Google Whitelist
+google.com
+.gmail.com
+youtube-ui.l.google.com # CNAME for (youtube.com)
+youtube.com
+storage.googleapis.com
+optimizationguide-pa.googleapis.com #Google Maps optimization
+passwordsleakcheck-pa.googleapis.com #Check compromised passwords
+photos.googleapis.com #GooglePhotos app
+photosdata-pa.googleapis.com #Google Photos
+play.googleapis.com # Google Play Store 
+android.googleapis.com #Android Update
+userlocation.googleapis.com #Android location tracking 
+contactsui-pa.googleapis.com #Google Contacts
+mobilemaps.googleapis.com #Google Maps
+nest-camera-media.googleapis.com #Google + Nest Home Camera
+googlehomefoyer-pa.googleapis.com #Google Home
+geomobileservices-pa.googleapis.com 
+youtube-ui.l.google.com # CNAME for (youtube.com)
+youtube.com
+dropcam.com #Google Nest
+
+
+#Github
+.github.com
+.githubusercontent.com 
+github.map.fastly.net # CNAME for (raw.githubusercontent.com)
+.gitlab.com
+
+#Misc sites
+stackoverflow.com
+stackoverflow.com
+dropbox.com
+dropbox.com
+www.dropbox-dns.com # CNAME for (dropbox.com)
+
+pbs.twimg.com # twitter images
+www.pbs.twimg.com # twitter images
+cs196.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
+cs2-wac.apr-8315.edgecastdns.net # CNAME for (pbs.twimg.com)
+cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
+cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
+cs2-wac.apr-8315.edgecastdns.net # CNAME for (pbs.twimg.com)
+cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
+cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
+.pfsense.org
+.netgate.com
