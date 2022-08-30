@@ -26,6 +26,8 @@ google.com
 .gmail.com
 youtube-ui.l.google.com # CNAME for (youtube.com)
 youtube.com
+.googlevideo.com
+connectivitycheck.gstatic.com
 storage.googleapis.com
 optimizationguide-pa.googleapis.com #Google Maps optimization
 passwordsleakcheck-pa.googleapis.com #Check compromised passwords
@@ -42,7 +44,6 @@ geomobileservices-pa.googleapis.com
 youtube-ui.l.google.com # CNAME for (youtube.com)
 youtube.com
 dropcam.com #Google Nest
-
 
 #Github
 .github.com
