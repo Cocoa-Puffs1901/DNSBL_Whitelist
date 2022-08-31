@@ -51,6 +51,8 @@ dropcam.com #Google Nest
 github.map.fastly.net # CNAME for (raw.githubusercontent.com)
 .gitlab.com
 
+#MSFT
+msftconnecttest.com
 #Misc sites
 stackoverflow.com
 stackoverflow.com
