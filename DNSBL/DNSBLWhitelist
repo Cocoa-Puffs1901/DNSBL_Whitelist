@@ -26,8 +26,6 @@ google.com
 .gmail.com
 youtube-ui.l.google.com # CNAME for (youtube.com)
 youtube.com
-.googlevideo.com
-connectivitycheck.gstatic.com
 storage.googleapis.com
 optimizationguide-pa.googleapis.com #Google Maps optimization
 passwordsleakcheck-pa.googleapis.com #Check compromised passwords
@@ -45,20 +43,20 @@ youtube-ui.l.google.com # CNAME for (youtube.com)
 youtube.com
 dropcam.com #Google Nest
 
+
 #Github
 .github.com
 .githubusercontent.com 
 github.map.fastly.net # CNAME for (raw.githubusercontent.com)
 .gitlab.com
 
-#MSFT
-msftconnecttest.com
 #Misc sites
 stackoverflow.com
 stackoverflow.com
 dropbox.com
 dropbox.com
 www.dropbox-dns.com # CNAME for (dropbox.com)
+
 
 pbs.twimg.com # twitter images
 www.pbs.twimg.com # twitter images
@@ -71,3 +69,7 @@ cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
 cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
 .pfsense.org
 .netgate.com
+
+msftconnecttest.com 
+phonearena.com
+analytics.chase.com
