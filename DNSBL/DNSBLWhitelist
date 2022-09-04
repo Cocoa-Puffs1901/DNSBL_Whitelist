@@ -32,6 +32,7 @@ passwordsleakcheck-pa.googleapis.com #Check compromised passwords
 photos.googleapis.com #GooglePhotos app
 photosdata-pa.googleapis.com #Google Photos
 play.googleapis.com # Google Play Store 
+play-fe.googleapis.com # Google Play store
 android.googleapis.com #Android Update
 userlocation.googleapis.com #Android location tracking 
 contactsui-pa.googleapis.com #Google Contacts
