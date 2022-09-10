@@ -41,6 +41,7 @@ nest-camera-media.googleapis.com #Google + Nest Home Camera
 googlehomefoyer-pa.googleapis.com #Google Home
 geomobileservices-pa.googleapis.com 
 clientservices.googleapis.com
+federatedcompute-pa.googleapis.com
 
 .googleusercontent.com #Software Updates
 youtube-ui.l.google.com # CNAME for (youtube.com)
