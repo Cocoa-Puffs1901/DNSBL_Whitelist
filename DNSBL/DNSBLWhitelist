@@ -40,11 +40,18 @@ mobilemaps.googleapis.com #Google Maps
 nest-camera-media.googleapis.com #Google + Nest Home Camera
 googlehomefoyer-pa.googleapis.com #Google Home
 geomobileservices-pa.googleapis.com 
+clientservices.googleapis.com
+
 .googleusercontent.com #Software Updates
 youtube-ui.l.google.com # CNAME for (youtube.com)
 youtube.com
 dropcam.com #Google Nest
 
+#Microsoft
+.microsoft.com
+.msft.com
+.live.com
+.hotmail.com
 
 #Github
 .github.com
