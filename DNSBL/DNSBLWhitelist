@@ -13,6 +13,7 @@ aan.amazon.com # Amazon app
 amazonalexa.com
 
 #Apple Whitelist
+.apple-dns.net
 apple.com
 ocsp.apple.com #Certificate Verification
 .icloud.com 
