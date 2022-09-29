@@ -4,6 +4,7 @@ aax-us-iad.amazon.com #Amazon app
 unagi-na.amazon.com #Amazon app
 aan.amazon.com # Amazon app
 aax-us-east-retail-direct.amazon.com
+msh.amazon.com
 .s3.amazonaws.com
 .s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
 .a2z.com #Amazon
@@ -11,7 +12,6 @@ aax-us-east-retail-direct.amazon.com
 .fls-na.amazon.com # alexa
 .media-amazon.com 
 amazonalexa.com
-msh.amazon.com
 
 #Apple Whitelist
 apple.com
@@ -77,16 +77,14 @@ cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
 cs2-wac.apr-8315.edgecastdns.net # CNAME for (pbs.twimg.com)
 cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
 cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
+
+twimg.com
+.twitter.com
 .pfsense.org
 .netgate.com
-
 msftconnecttest.com 
 phonearena.com
 analytics.chase.com
 
-#Test
-api.apptentive.com
-.perimeterx.net
-msh.amazon.com
-.zg-api.com
-analytics.zg-api.com 
+px-conf.perimeterx.net #Required for Zillow app
+
