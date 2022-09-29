@@ -3,7 +3,7 @@
 aax-us-iad.amazon.com #Amazon app
 unagi-na.amazon.com #Amazon app
 aan.amazon.com # Amazon app
-
+aax-us-east-retail-direct.amazon.com
 .s3.amazonaws.com
 .s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
 .a2z.com #Amazon
@@ -11,9 +11,9 @@ aan.amazon.com # Amazon app
 .fls-na.amazon.com # alexa
 .media-amazon.com 
 amazonalexa.com
+msh.amazon.com
 
 #Apple Whitelist
-.apple-dns.net
 apple.com
 ocsp.apple.com #Certificate Verification
 .icloud.com 
@@ -42,11 +42,7 @@ nest-camera-media.googleapis.com #Google + Nest Home Camera
 googlehomefoyer-pa.googleapis.com #Google Home
 geomobileservices-pa.googleapis.com 
 clientservices.googleapis.com
-remotedesktop-pa.googleapis.com
-federatedcompute-pa.googleapis.com
-federatedml-pa.googleapis.com
-nest-camera-media.googleapis.com
-peoplestack-pa.googleapis.com
+
 .googleusercontent.com #Software Updates
 youtube-ui.l.google.com # CNAME for (youtube.com)
 youtube.com
@@ -87,3 +83,9 @@ cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
 msftconnecttest.com 
 phonearena.com
 analytics.chase.com
+
+#Test
+api.apptentive.com
+.perimeterx.net
+msh.amazon.com
+.zg-api.com
