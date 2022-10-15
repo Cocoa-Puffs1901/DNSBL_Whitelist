@@ -79,12 +79,9 @@ cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
 cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
 
 twimg.com
-.twitter.com
 .pfsense.org
 .netgate.com
 msftconnecttest.com 
 phonearena.com
 analytics.chase.com
-
-px-conf.perimeterx.net #Required for Zillow app
-
+.perimeterx.net # Required for Zillow App
